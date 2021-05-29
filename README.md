@@ -1,1 +1,2 @@
 # Air-Canvas
+Air Canvas is a hands-free digital drawing canvas that utilizes a web camera, and OpenCV to recognize and map hand gestures onto a white screen. The user’s “brush” can be modified in color by using built-in buttons. The direction of the brush is controlled completely using open source OpenCV software and modified to map the pointer finger onto the screen using deque following a calibration screen to measure and record the color of the user’s hand. 
